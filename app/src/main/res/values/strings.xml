@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="get_started">Get Started</string>
+    <string name="food_for_you">Food for You</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="food_name">FOOD NAME\n</string>
+    <string name="food_price">FOOD PRICE</string>
+    <string name="order_now">Order Now</string>
+    <string name="return_policy">Return Policy</string>
+    <string name="delivery_info">Delivery Information\n</string>
+</resources>
